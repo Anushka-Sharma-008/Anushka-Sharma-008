@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Building and strengthening my Data Science and Machine Learning skills through hands-on projects and real-world datasets**
 
-- 🌱 I’m currently learning **Developing end-to-end skills in Data Analytics and Data Science, including tools like Power BI, Excel, and SQL; Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn; statistical analysis; the complete Machine Learning pipeline using Scikit-Learn; and foundational to advanced Deep Learning concepts including CNNs, RNNs, and model building with TensorFlow and Keras.**
+- 🌱 I’m currently learning **End-to-end skills in Data Analytics and Data Science, including tools like Power BI, Excel, and SQL; Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn; statistical analysis; the complete Machine Learning pipeline using Scikit-Learn; and foundational to advanced Deep Learning concepts including CNNs, RNNs, and model building with TensorFlow and Keras.**
 
 - 👯 I’m looking to collaborate on **Real-world data analytics & machine learning projects (NLP, healthcare, social impact)**
 
