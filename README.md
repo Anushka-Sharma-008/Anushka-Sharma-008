@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka Sharma</h1>
 <h3 align="center">A passionate data analyst & ML enthusiast from India, blending code with creativity.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushka-sharma-008" alt="anushka-sharma-008" /></a> </p>
 
 - 🔭 I’m currently working on **Building and strengthening my Data Science and Machine Learning skills through hands-on projects and real-world datasets**
 
