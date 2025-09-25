@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **anushkasharma58831@gmail.com**
 
-- 📄 Know about all my experiences [https://docs.google.com/document/d/1pE6qAbwGLjeZ0dnl_k67BmC37E_ZrB0uVTdbika9at4/edit?usp=sharing](https://docs.google.com/document/d/1pE6qAbwGLjeZ0dnl_k67BmC37E_ZrB0uVTdbika9at4/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anushkasharma008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushkasharma008" height="30" width="40" /></a>
