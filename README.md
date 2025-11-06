@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anushka Sharma</h1>
-<h3 align="center">A passionate data analyst & ML enthusiast from India, blending code with creativity.</h3>
+<h3 align="center">A passionate data analyst & data engineer from India, blending code with creativity.</h3>
 
-- 🔭 I’m currently working on **Building and strengthening my Data Science and Machine Learning skills through hands-on projects and real-world datasets**
+- 🔭 I’m currently working on **Building and strengthening my Data Science and Analytical skills through hands-on projects and real-world datasets**
 
 - 🌱 I’m currently learning **Developing end-to-end skills in Data Analytics and Data Science, including tools like Power BI, Excel, and SQL; Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn; statistical analysis; the complete Machine Learning pipeline using Scikit-Learn; and foundational to advanced Deep Learning concepts including CNNs, RNNs, and model building with TensorFlow and Keras.**
 
-- 👯 I’m looking to collaborate on **Real-world data analytics & machine learning projects (NLP, healthcare, social impact)**
+- 👯 I’m looking to collaborate on **Real-world data analytics & data engineering projects.**
 
 - 💬 Ask me about **Data Analytics, Data Science, all things Python, Video Editing, Graphic Design, and Event Management**
 
